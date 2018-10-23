@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgosTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-10-23T02:46:17" hostname="LAPTOP-AE4KLFK0" time="0.027">
+  <properties/>
+  <testcase name="methodForAllStatementsExecutingWithHeapSort" classname="test.java.AlgosTest" time="0.01"/>
+  <testcase name="methodForNullInputCoverage" classname="test.java.AlgosTest" time="0.001"/>
+  <testcase name="methodForAllStatementsExecutingWithInsertionSort" classname="test.java.AlgosTest" time="0.008"/>
+  <testcase name="methodForAllStatementsExecuting" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="methodForBreakingOuterForLoop" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="methodForBreakingIfCondition" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="methodForAllStatementsExecutingWithSelectionSort" classname="test.java.AlgosTest" time="0.003"/>
+  <testcase name="methodForAllStatementsExecutingWithMergeSort" classname="test.java.AlgosTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

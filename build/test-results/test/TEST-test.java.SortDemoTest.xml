@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.SortDemoTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-10-23T02:46:17" hostname="LAPTOP-AE4KLFK0" time="0.017">
+  <properties/>
+  <testcase name="NonIntegerValue" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="negativeArraySize" classname="test.java.SortDemoTest" time="0.002"/>
+  <testcase name="SameNumber" classname="test.java.SortDemoTest" time="0.003"/>
+  <testcase name="NoNumber" classname="test.java.SortDemoTest" time="0.005"/>
+  <testcase name="NoSuchElem" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="testNumber" classname="test.java.SortDemoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
